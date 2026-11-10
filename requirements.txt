@@ -1,0 +1,8 @@
+sentence-transformers
+gradio
+matplotlib
+markdown
+pandas
+scikit-learn
+numpy
+Pillow
