@@ -42,7 +42,9 @@ An AI-powered decision support system that recommends suitable AI models based o
 ```text
 .
 ├── Multi_Domain_AI_Model_Recommendation_DSS.ipynb
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ## Important Note
@@ -53,7 +55,7 @@ Model evaluation scores are based on a combination of published benchmark figure
 
 The notebook is designed to run in a Python notebook environment such as Google Colab.
 
-Open `BDA_Project_Final.ipynb`, run the cells in order, and launch the Gradio interface when prompted.
+Open `Multi_Domain_AI_Model_Recommendation_DSS.ipynb`, run the cells in order, and launch the Gradio interface when prompted.
 
 ## Future Improvements
 
