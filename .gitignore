@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Model and dataset caches
+.cache/
+huggingface_cache/
+chroma_db/
+
+# System files
+.DS_Store
+Thumbs.db
